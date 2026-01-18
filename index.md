@@ -48,7 +48,7 @@ Before that, I completed my BSc in Psychology at University College London.
 
 
 ## 📄 Links
-- [BLAB](https://bergelsonlab.fas.harvard.edu/people/rainy-dong)
+- [BLAB](https://bergelsonlab.fas.harvard.edu/people)
 - [ReadOxford](https://readoxford.web.ox.ac.uk/our-team/rainy-dong)
 
 
