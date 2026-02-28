@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /assets/RainyDong_CV_2026.pdf
