@@ -37,9 +37,9 @@ Gattas, S. U., **Dong, Y.**, & Howard, S. J. (forthcoming). *Affective Regulatio
 
 ## 2026
 
-**Dong, Y.**, Moore, C., Ramadurai, J., & Bergelson, E. (accepted). [Measuring Early Word Exposure in Infants: A Brief Parent-Report Survey Captures Individual Language Input and Predicts Vocabulary Outcomes](https://osf.io/preprints/osf/kxcw4_v2) *Developmental Psychology*.
+**Dong, Y.**, Moore, C., Ramadurai, J., & Bergelson, E. (2026). [Measuring Early Word Exposure in Infants: A Brief Parent-Report Survey Captures Individual Language Input and Predicts Vocabulary Outcomes](https://doi.org/10.1037/dev0002160) *Developmental Psychology*. Advance online publication. 
 
-**Dong, Y.**, Mak, M. H., Hepach, R., & Nation, K. (2026). [Emotional Words, Emotional Contexts: Investigating Emotional Valence in Children’s Writing and Word Learning.](https://osf.io/preprints/osf/jmq2y_v1) *Infant and Child Development, 35*(1).
+**Dong, Y.**, Mak, M. H., Hepach, R., & Nation, K. (2026). [Emotional Words, Emotional Contexts: Investigating Emotional Valence in Children’s Writing and Word Learning.](https://doi.org/10.1002/icd.70083) *Infant and Child Development, 35*(1).
 
 ## 2025
 
