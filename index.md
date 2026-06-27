@@ -30,9 +30,7 @@ title: Home
 
 # Hello, I'm Rainy
 
-<img src="/assets/profile.jpeg" alt="Profile photo" width="120" align="left" style="margin-right: 20px;" />
-
-I'm a postdoctoral researcher (advisors: Rebecca Silverman and Jason Yeatman) at Stanford Graduate School of Education working on developing reading assessment, since June 2026.  
+I'm a Postdoc at Stanford GSE studying early reading and literacy development. My advisors are Rebecca Silverman and Jason Yeatman.
 
 Prior to Stanford, I was a postdoctoral researcher (advisor: Elika Bergelson) at Harvard LDS working on early language environment and acquisition, since January 2025.
 
@@ -58,4 +56,3 @@ Before that, I completed my BSc in Psychology at University College London.
 
 - 📧 Email: rainydong [at] stanford.edu
 - 📅 [Book a time](https://calendar.app.google/4geQwrQzu8dwBvYm9) to chat with me! 
-

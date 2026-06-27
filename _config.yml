@@ -1,9 +1,10 @@
 title: Rainy Dong
-email: yuzhendong@fas.harvard.edu
+email: rainydong@stanford.edu
 description: >-
-  Postdoc at Harvard studying early language development.
+  Postdoc at Stanford GSE studying early reading and literacy development.
 theme: jekyll-theme-minimal
 url: "https://rainy323.github.io" 
+logo: /assets/profile.jpeg
 
 include:
   - _pages
