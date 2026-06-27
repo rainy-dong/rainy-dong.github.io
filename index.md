@@ -32,13 +32,14 @@ title: Home
 
 <img src="/assets/profile.jpeg" alt="Profile photo" width="120" align="left" style="margin-right: 20px;" />
 
-I'm a postdoctoral researcher (advisor: Elika Bergelson) at Harvard LDS working on early language environment and acquisition, since January 2025.
+I'm a postdoctoral researcher (advisors: Rebecca Silverman and Jason Yeatman) at Stanford Graduate School of Education working on developing reading assessment, since June 2026.  
 
-Before Harvard, I obtained my DPhil in Experimental Psychology at the University of Oxford, where I focused on the children's emotion words in written language. 
+Prior to Stanford, I was a postdoctoral researcher (advisor: Elika Bergelson) at Harvard LDS working on early language environment and acquisition, since January 2025.
+
+I obtained my DPhil in Experimental Psychology at the University of Oxford, where I focused on the children's emotion words in written language. 
 I was advised by Kate Nation and Robert Hepach.
 
 Before that, I completed my BSc in Psychology at University College London.
-
 
 
 ## 🔬 Research Interests
@@ -55,6 +56,6 @@ Before that, I completed my BSc in Psychology at University College London.
 
 ## 📫 Get in Touch
 
-- 📧 Email: yuzhendong [at] fas.harvard.edu
+- 📧 Email: rainydong [at] stanford.edu
 - 📅 [Book a time](https://calendar.app.google/4geQwrQzu8dwBvYm9) to chat with me! 
 
