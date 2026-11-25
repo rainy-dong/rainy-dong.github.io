@@ -47,12 +47,13 @@ Before that, I completed my BSc in Psychology at University College London.
 
 
 ## 📄 Links
-- <a href="https://bergelsonlab.fas.harvard.edu/people" target="_blank" rel="noopener">BLAB</a>
-- <a href="https://readoxford.web.ox.ac.uk/our-team/rainy-dong" target="_blank" rel="noopener">ReadOxford</a>
+- <a href="https://roareducation.stanford.edu/team" target="_blank" rel="noopener">Stanford ROAR</a>
+- <a href="https://edneuro.stanford.edu/#team" target="_blank" rel="noopener">Brain Development &amp; Education Lab</a>
+- <a href="https://langlitlab.stanford.edu/about#research-team" target="_blank" rel="noopener">Language to Literacy Research Lab</a>
 - <a href="/assets/RainyDong_CV_2026.pdf" target="_blank" rel="noopener">CV</a>
 
 
 ## 📫 Get in Touch
 
 - 📧 Email: rainydong [at] stanford.edu
-- 📅 [Book a time](https://calendar.app.google/4geQwrQzu8dwBvYm9) to chat with me! 
+- 📅 [Book a time](https://calendly.com/rainydy-stanford/30min) to chat with me!
