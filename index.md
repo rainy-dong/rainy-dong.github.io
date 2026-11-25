@@ -41,9 +41,10 @@ Before that, I completed my BSc in Psychology at University College London.
 
 
 ## 🔬 Research Interests
+- Reading and literacy development
 - Language development
 - Emotion words
-- Experimental and corpus methods
+- Experimentation, corpus analysis, psychometrics
 
 
 ## 📄 Links
